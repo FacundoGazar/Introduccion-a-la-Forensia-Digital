@@ -12,12 +12,12 @@ Recuperar el mensaje.
 
 ## Solución
 
-En la nota nos están dando como pista que "unlp" es una key. Primero la paso a hex:
+En la nota nos están dando como pista que "UNLP" es una key. Primero la paso a hex:
 
 > 75 6e 6c 70
 
 Y ahora pruebo haciendole un XOR al mensaje que se recibió usando como key unlp en hex:
 
-> ifd[XORNEEDSAKEY]
+> IFD{xor_needs_a_key}
 
-## Flag: ifd[XORNEEDSAKEY]
+## Flag: IFD{xor_needs_a_key}
