@@ -40,6 +40,6 @@ gpg: ATENCIÓN: ¡Esta clave no está certificada por una firma de confianza!
 gpg:          No hay indicios de que la firma pertenezca al propietario.
       42A6B1A7F774EFF6CF8A3145C6A20F635A433C31
 
-
+Como verificamos que el contenido no fue modificado, podemos confiar en la flag.
 
 ## Flag: IFD{una_firma_tambien_es_evidencia}

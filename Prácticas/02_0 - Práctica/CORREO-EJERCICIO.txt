@@ -1,0 +1,26 @@
+Integrante 1
+
+- Apellido y Nombre: Facundo Nicolás García Zárate
+- Número de alumno: 21039/4
+- Usuario GitHub: FacundoGazar (https://github.com/FacundoGazar)
+- Usuario CTF: facugazar
+- Grupo CTF: Crows
+- Fingerprint PGP: 24E5 A2AD 51EC 7648 CE18  4E69 A7AC CB44 3A88 AF1C
+
+Integrante 2
+
+- Apellido y Nombre: Juan Cruz Tucci
+- Número de alumno: 20710/9
+- Usuario GitHub: Tuccim4n (https://github.com/Tuccim4n)
+- Usuario CTF: Tucci
+- Grupo CTF: Crows
+- Fingerprint:
+
+Integrante 3
+
+- Apellido y Nombre: Alejo Retola Noya
+- Número de alumno: 
+- Usuario GitHub:  ()
+- Usuario CTF: AlejoRetola
+- Grupo CTF: Crows
+- Fingerprint:
