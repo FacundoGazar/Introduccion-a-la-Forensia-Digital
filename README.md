@@ -8,3 +8,5 @@
 
 ## Prácticas
 * [**Práctica 1**](https://github.com/FacundoGazar/Introduccion-a-la-Forensia-Digital/tree/main/Pr%C3%A1cticas/01%20-%20Pr%C3%A1ctica)
+* [**Práctica 2_0**](https://github.com/FacundoGazar/Introduccion-a-la-Forensia-Digital/tree/main/Pr%C3%A1cticas/02_0%20-%20Pr%C3%A1ctica)
+* [**Práctica 2_1**](https://github.com/FacundoGazar/Introduccion-a-la-Forensia-Digital/tree/main/Pr%C3%A1cticas/02_1%20-%20Pr%C3%A1ctica)
