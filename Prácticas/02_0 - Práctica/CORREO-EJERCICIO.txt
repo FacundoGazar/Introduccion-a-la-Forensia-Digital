@@ -14,13 +14,13 @@ Integrante 2
 - Usuario GitHub: Tuccim4n (https://github.com/Tuccim4n)
 - Usuario CTF: Tucci
 - Grupo CTF: Crows
-- Fingerprint:
+- Fingerprint: B763 C463 30F0 A942 7A15  85AA 8813 FD7A 8106 0337
 
 Integrante 3
 
 - Apellido y Nombre: Alejo Retola Noya
-- Número de alumno: 
-- Usuario GitHub:  ()
+- Número de alumno: 20236/3
+- Usuario GitHub: AlejoRetola (https://github.com/AlejoRetola)
 - Usuario CTF: AlejoRetola
 - Grupo CTF: Crows
-- Fingerprint:
+- Fingerprint: B57B A74D 1691 0EC9 EFC7  55D2 81DF 0DB9 239D 6558

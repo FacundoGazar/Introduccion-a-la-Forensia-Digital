@@ -1,3 +1,4 @@
+
 # Práctica 2-0 - IFD
 
 ## PGP: firma digital y cifrado
@@ -131,6 +132,20 @@ Y pego cada fingerprint para descargar la clave pública e importarlas.
 
 > gpg --import einar.asc
 
-**TERMINAR...**
+También importo las claves públicas de mis compañeros del mismo modo.
+
+Completo los datos de cada integrante en un txt y luego lo firmo para verificar que yo generé el mensaje y que no fue modificado luego de ser firmado.
+
+> gpg --armor --sign CORREO-EJERCICIO.txt
+
+Podemos verificar si firmamos correctamente de esta manera:
+
+> gpg --verify CORREO-EJERCICIO.txt.asc
+
+Ahora ciframos el mensaje para que solamente los profes, mis compañeros y yo podamos descifrarlos. Para eso ejecutamos este comando:
+
+> gpg --armor --encrypt --recipient 24E5A2AD51EC7648CE184E69A7ACCB443A88AF1C --recipient B763C46330F0A9427A1585AA8813FD7A81060337 --recipient B57BA74D16910EC9EFC755D281DF0DB9239D6558 --recipient E20A4D40B8896B9F7B41C8678F1DB90B6B8F9DD4 --recipient 699B5CD94C6619BCDCE6893DE4EDC0703DB4692E --output CORREO-CIFRADO.asc
+
+Ahora solamente tenemos que mandar un mail adjuntando las claves públicas de todos y ese archivo cifrado.
 
 ## Flag: IFD{}
